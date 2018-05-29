@@ -47,6 +47,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
+<h3><a href="https://bsmith89.github.io/2018-05-24-LBNL/files/etherpad.html">Archived Etherpad</a></h3>
+
 <h2 id="general">General Information</h2>
 
 {% comment %}
